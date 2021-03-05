@@ -64,3 +64,5 @@ D:\2.Project\SideProject\CommonWebAPI\CommonWebAPI\obj\Debug\netcoreapp3.1\Commo
 D:\2.Project\SideProject\CommonWebAPI\CommonWebAPI\obj\Debug\netcoreapp3.1\CommonWebAPI.pdb
 D:\2.Project\SideProject\CommonWebAPI\CommonWebAPI\obj\Debug\netcoreapp3.1\CommonWebAPI.genruntimeconfig.cache
 D:\2.Project\SideProject\CommonWebAPI\CommonWebAPI\obj\Debug\netcoreapp3.1\CommonWebAPI.csprojAssemblyReference.cache
+D:\2.Project\SideProject\CommonWebAPI\CommonWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\2.Project\SideProject\CommonWebAPI\CommonWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll

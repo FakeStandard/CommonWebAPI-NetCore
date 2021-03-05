@@ -11,6 +11,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
+using System.Text.Json;
 
 namespace CommonWebAPI
 {
@@ -45,6 +48,10 @@ namespace CommonWebAPI
             // 註冊連線資料庫服務
             services.AddDbContext<MyDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("VueecommerceContext")));
+
+            // 註冊忽略循環引用的服務
+            services.AddMvc().AddNewtonsoftJson(options =>
+                options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore);
 
             services.AddControllers();
         }
