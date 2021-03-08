@@ -167,7 +167,7 @@ namespace CommonWebAPI.Controllers
             {
                 var o = _context.Categories.Find(id);
 
-                if(o != null)
+                if (o != null)
                 {
                     o.Name = name;
                     _context.SaveChanges();

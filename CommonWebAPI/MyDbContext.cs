@@ -16,6 +16,8 @@ namespace CommonWebAPI
         public DbSet<Rights> Rights { get; set; }
         public DbSet<RoleRights> RoleRights { get; set; }
         public DbSet<Categories> Categories { get; set; }
+        public DbSet<Params> Params { get; set; }
+        public DbSet<ParamsTags> ParamsTags { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<RoleRights>()
