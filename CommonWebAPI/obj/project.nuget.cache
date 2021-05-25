@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tbVXfBP+mOwc+arvUSMtOnvDHah7V3wTw4efGfpSQ2qJMKRdx+aphwLpchaPx5owju6CdO8EQW38Rd4QIkoBkg==",
+  "dgSpecHash": "b+hw4Q+Z61HuFFJ3ms4OE6Vkq9il9sIxi4Rwd9T400tHn3ugXF6O4xSRr3yKTxy4n2akAslLaF37ITlmDL84kw==",
   "success": true,
   "projectFilePath": "D:\\2.Project\\SideProject\\CommonWebAPI\\CommonWebAPI\\CommonWebAPI.csproj",
   "expectedPackageFiles": [
@@ -100,7 +100,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": [
     {
